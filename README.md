@@ -52,3 +52,6 @@ index.html
 vite.config.js
 vercel.json
 ```
+
+### Preview:
+**Live demo:** [startupfunding-analysis.vercel.app](https://startupfunding-analysis.vercel.app)
